@@ -10,7 +10,6 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Archivos de dependencias bloqueadas
-package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
