@@ -9,7 +9,7 @@ const app = express();
 
 // 4. Endpoint de bienvenida
 app.get('/', (req, res) => {
-  res.send('prueba de que funciona');
+  res.send('CI en acción! Bienvenido a la API de Suma.');
 });
 
 // 5. Endpoint para sumar dos números
